@@ -1,5 +1,5 @@
 # Conference App
-Deployed at: https://64b943e1fbb1810bf356bfff--spontaneous-souffle-f60bb2.netlify.app/
+Deployed at: https://64b943e1fbb1810bf356bfff--spontaneous-souffle-f60bb2.netlify.app/ .
 This SPA project is a responsive conference app built using React, Vite, CSS, and HTML.
 
 ## Features
